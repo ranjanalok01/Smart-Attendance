@@ -1,0 +1,4 @@
+C:/Users/hp/Desktop/Project/Smart[[:space:]]Attensance[[:space:]]Syatem/Code/venv filter=lfs diff=lfs merge=lfs -text
+C:/Users/hp/Desktop/Project/Smart[[:space:]]Attensance[[:space:]]Syatem/Code/TrainingImageLabel filter=lfs diff=lfs merge=lfs -text
+C:/Users/hp/Desktop/Project/Smart[[:space:]]Attensance[[:space:]]Syatem/Code/TrainingImageLabel filter=lfs diff=lfs merge=lfs -text
+*.yml filter=lfs diff=lfs merge=lfs -text
